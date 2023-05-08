@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcodeit-function
+<br>
+Write a function called codeit that takes a string txt as input and returns another string coded as output. The function reverses the alphabet: It replaces each ‘a’ with ‘z’, each ‘b’ with ‘y’, each ‘c’ with ‘x’, etc. The function must work for uppercase letters the same way, but it must not change any other characters. Note that if you call the function twice like this str = codeit(codeit(txt)) then str and txt will be identical.
